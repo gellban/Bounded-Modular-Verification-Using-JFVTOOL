@@ -64,6 +64,7 @@ Some output results of analyzing ArrayImp Java program with a trace option:
 METHOD	                                 		Result
 ================================	======
 add                                      			Not Pass
+
 initial state:
   this = BPkg.ArrayImp0
   l1 = 2
