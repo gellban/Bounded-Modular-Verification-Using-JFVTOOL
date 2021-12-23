@@ -12,10 +12,15 @@ The output of JFVTool will not be exactly one-to-one with your source code, but 
 **Steps:**
 The instructions for implementing the two methods in a Linux platform as follows: 
 Installing JFVTool in your machine:
+
 Copy “JFVTool.zip” from the flash drive which will be provided to you, to your working computer. 
+
 Unzip the file using the following command: 
+
 unzip JFVTool.zip -d .
+
 Change your directory, as follows:
+
 cd JFVTool
 
 **Implementing the first method of array data structure: **
